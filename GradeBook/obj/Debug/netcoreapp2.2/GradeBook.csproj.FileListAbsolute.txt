@@ -1,0 +1,11 @@
+C:\Users\ennio\source\repos\GradeBook\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+C:\Users\ennio\source\repos\GradeBook\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+C:\Users\ennio\source\repos\GradeBook\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+C:\Users\ennio\source\repos\GradeBook\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\ennio\source\repos\GradeBook\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\ennio\source\repos\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+C:\Users\ennio\source\repos\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\ennio\source\repos\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+C:\Users\ennio\source\repos\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+C:\Users\ennio\source\repos\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\ennio\source\repos\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
